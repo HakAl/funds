@@ -1,0 +1,6 @@
+<svg id="visual" viewBox="0 0 900 900" width="900" height="900" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+    <rect x="0" y="0" width="900" height="900" fill="#bec4be"></rect>
+    <path d="M0 560L129 444L257 341L386 274L514 611L643 189L771 342L900 191L900 901L771 901L643 901L514 901L386 901L257 901L129 901L0 901Z"
+          fill="#343a40" stroke-linecap="square" stroke-linejoin="bevel"></path>
+</svg>

@@ -1,0 +1,39 @@
+/*{"grey":"233d4d",
+"orange":"fe7f2d",
+"yellow":"fcca46",
+"lightgreen":"a1c181",
+"green":"619b8a"}*/
+/*{"
+Cultured":"f8f9fa",
+"Gainsboro":"dee2e6",
+"Light Gray":"ced4da",
+"Slate Gray":"6c757d",
+"Gunmetal":"343a40"}*/
+
+/*{"Rich Black FOGRA 39":"080808",
+"Taupe Gray":"848085",
+"Silver Sand":"bec4be",
+"Davys Grey":"454748",
+"Eerie Black":"1d1f1f",
+"Charcoal":"23434e",
+"Tuscan Red":"77464f",
+"Dark Liver":"594849"}*/
+
+html,
+body {
+    color: #bec4be;
+    background-color: #343a40;
+    padding: 0;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+* {
+    box-sizing: border-box;
+}
